@@ -1,5 +1,13 @@
+
 node_modules/
 .next/
 .env.local
 *.log
+=======
+target/
+*.class
+*.jar
+.idea/
+*.iml
+
 .DS_Store
