@@ -84,7 +84,6 @@ java -jar target/notification-priority-1.0-SNAPSHOT.jar \
 
 ## Example Output
 
-```
 <img width="824" height="427" alt="image" src="https://github.com/user-attachments/assets/02f62e4e-db23-48b1-9170-a21ce33ceaa2" />
 
 
