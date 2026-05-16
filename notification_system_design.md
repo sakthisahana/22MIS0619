@@ -85,13 +85,8 @@ java -jar target/notification-priority-1.0-SNAPSHOT.jar \
 ## Example Output
 
 ```
-===== TOP 10 PRIORITY NOTIFICATIONS =====
+<img width="824" height="427" alt="image" src="https://github.com/user-attachments/assets/7dfec9b9-534b-4fbb-9da3-74d8dd336739" />
 
-1  [d1460954] Type: Placement    | Message: CDX Corporation Hiring        | Time: 2026-04-22 17:51:38
-2  [b2032185] Type: Placement    | Message: TechCorp Campus Drive         | Time: 2026-04-22 17:51:37
-3  [a3184729] Type: Result       | Message: Semester Results Published     | Time: 2026-04-22 17:51:36
-...
-```
 
 ---
 
